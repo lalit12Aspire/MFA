@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TWOFACT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8426450ed9baf76354aaf840a9e343882e040db0")]
 [assembly: System.Reflection.AssemblyProductAttribute("TWOFACT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TWOFACT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

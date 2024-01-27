@@ -5,15 +5,15 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using MyApplication.Data;
+using twofact.Data;
 
 #nullable disable
 
 namespace TWOFACT.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240123033247_testing")]
-    partial class testing
+    [Migration("20240127043227_new")]
+    partial class @new
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
